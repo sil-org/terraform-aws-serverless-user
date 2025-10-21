@@ -1,5 +1,5 @@
 module "serverless-user" {
-  source  = "silinternational/serverless-user/aws"
+  source  = "sil-org/serverless-user/aws"
   version = ">= 0.1.3"
 
   app_name = "serverless-user"
